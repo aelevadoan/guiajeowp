@@ -249,4 +249,11 @@ Para poder escribir los posts en varios idiomas podés descargarte este plugin
 
 
 
+///////////////
+
+Por defecto, el servidor de mapa es Mapbox, un servicio privativo (aunque el data se obtiene de Open Street Maps)...pero creemos que se puede cambiar el sevidor de mapas(véase apartado ##MapBox).
+
+Nos parecen interesantes proyectos como <http://tilestache.org/> de <http://stamen.com/>
+
+
 
