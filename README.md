@@ -1,9 +1,3 @@
-guiajeowp
-=========
-
-Guìa JEO WordPress
-
-
 CÔMO INSTALAR JEO WORDPRESS
 =============================
 
@@ -251,6 +245,7 @@ si no tenés msgfmt, descárgalo
 Para poder escribir los posts en varios idiomas podés descargarte este plugin
 
 <http://www.qianqin.de/qtranslate/>
+
 
 
 
